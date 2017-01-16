@@ -1,1 +1,1 @@
-# summernote_image_upload
+# summernote image upload with nodejs server
